@@ -1,15 +1,11 @@
 {
-    "name": "FakeProfileThemesAndEffects",
+    "name": "FakeProfileThemesAndEffects Fixxed",
     "description": "Allows profile theming and the usage of profile effects by hiding the colors and effect ID in your About Me using invisible, zero-width characters",
     "authors": [
         {
-            "name": "ryan",
-            "id": "479403382994632704"
+            "name": "verwahlter",
+            "id": "1499427338247606384"
         },
-        {
-            "name": "シグマ siguma",
-             "id": "737597276339437578"
-        }
     ],
     "main": "src/index.ts",
     "vendetta": {
